@@ -11,7 +11,7 @@ links:
 Employment
 ----------
 
-**Senior front­end / full stack developer at Sailthru ** *Jan 2013*
+**Senior front­end / full stack developer at Sailthru** *Jan 2013*
 - Refactored API and UI in a high scale architecture (PHP, MongoDB,
 BackboneJS)
 - Increased reliability of the system (Pagerduty, server
@@ -39,9 +39,10 @@ belotti­online.it (PHP)
 
 Education
 ---------
-2005 Computer Science Bachelor - Università Papardo, Italy
-
-2001 High School Degree in Computer Science - Verona Trento, Italy
+- 2010 Google Maps API certification
+- 2009 Zend PHP certification
+- 2005 Computer Science Bachelor - Università Papardo, Italy
+- 2001 High School Degree in Computer Science - Verona Trento, Italy
 
 Language and technologies
 -------------------------
