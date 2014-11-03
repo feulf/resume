@@ -48,6 +48,6 @@ Language and technologies
 -------------------------
 Javascript, LAMP, Python, Ruby, Java, C++, TDD, SQL, NoSQL, ActiveMQ,
 HTTP, HTML, CSS/Sass, Photoshop, AWS, Git, Linux, Bash scripting, Agile
-Methodologies.
+Methodologies, Ping Pong.
 
 *￼Imagination is everything -  Albert Einstein*
